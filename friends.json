@@ -14,6 +14,12 @@
 
 		},
 		{
+			"id": "1103011",
+			"name": "Rafid Mahboob",
+			"image": "https://raw.githubusercontent.com/shakilhossain38/classmates_info/master/riaz.jpg"
+
+		},
+		{
 			"id": "1103019",
 			"name": "Antii Saniyashi",
 			"image": "https://s.wsj.net/img/meta/wsj-social-share.png"
@@ -39,12 +45,29 @@
 
 		},
 		{
+			"id": "1103023",
+			"name": "Mehedi Hasan Sami",
+			"image": "https://raw.githubusercontent.com/shakilhossain38/classmates_info/master/shakil.png"
+
+		},
+		{
+			"id": "1103038",
+			"name": "Tariql Islam Ridoy",
+			"image": "https://raw.githubusercontent.com/shakilhossain38/classmates_info/master/shakil.png"
+
+		},
+		{
 			"id": "1103057",
 			"name": "Sumaia Afrin Prity",
 			"image": "https://raw.githubusercontent.com/shakilhossain38/classmates_info/master/p.jpg"
 
-		}
+		},
+		{
+			"id": "1103071",
+			"name": "Zinia Jahan",
+			"image": "https://raw.githubusercontent.com/shakilhossain38/classmates_info/master/p.jpg"
 
+		}
 
 
 	]
