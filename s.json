@@ -1,0 +1,51 @@
+{
+	"schedule":[
+
+		{
+			"time": "7.15",
+			"from": "Cumilla City",
+			"to" : "Campus",
+			"bus": "Bus no 1"
+
+		},
+
+		{
+			"time": "7.15",
+			"from": "Cumilla City",
+			"to" : "Campus",
+			"bus": "Bus no 2"
+
+		},
+
+		{
+			"time": "7.15",
+			"from": "Cumilla City",
+			"to" : "Campus",
+			"bus": "Bus no 3"
+
+		},
+		{
+			"time": "7.15",
+			"from": "Cumilla City",
+			"to" : "Campus",
+			"bus": "Bus no 4"
+
+		},
+		{
+			"time": "7.15",
+			"from": "Cumilla City",
+			"to" : "Campus",
+			"bus": "Bus no 5"
+
+		},
+		{
+			"time": "7.15",
+			"from": "Cumilla City",
+			"to" : "Campus",
+			"bus": "Bus no 6"
+
+		}
+
+
+	]
+}
